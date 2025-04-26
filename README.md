@@ -1,0 +1,2 @@
+# ML-Model-and-Statistical-Analysis-for-used-SUV-pries-for-Australian-SUV-s
+ML Model and Statistical Analysis for used SUV pries for Australian SUV’s brands:c Toyota and Mitsubishi  (R and R markdown) Our goal of the research is to find which explanatory variables impact the price of used SUVs and  build a single and multiple  linear regression model to accurately predict the price of a used SUV. 
